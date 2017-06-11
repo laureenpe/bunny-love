@@ -129,3 +129,14 @@
 .bunny-fourth {
     background-image: url(../img/img-4.jpg);
 }
+
+
+/*FOOTER*/
+
+footer {
+    text-align: center;
+    color: white;
+    padding: 40px;
+    border-top: 3px #ff7673 solid;
+    background-color: #037f99;
+}
