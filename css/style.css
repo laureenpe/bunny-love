@@ -43,3 +43,35 @@
     color: white;
     font-size: 12px;
 }
+
+
+/*BUNNY SOFT (SECTION 2) */
+
+.first-section {
+    background-image: url(../img/img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.first-title {
+    font-family: "Baloo Paaji";
+    color: #ff7673;
+    font-size: 80px;
+    padding: 50px 0 10px 0;
+    margin-left: 20%
+}
+
+.first-title {
+    background-color: rgba(3, 127, 153, 0.8);
+    text-align: center;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+}
+
+.live-love-laught {
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 40px 0;
+    font-style: italic;
+}
