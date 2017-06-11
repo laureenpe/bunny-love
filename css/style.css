@@ -75,3 +75,57 @@
     padding: 40px 0;
     font-style: italic;
 }
+
+
+/*FOUR BUNNIES (SECTION 3)*/
+
+.four-bunnies {
+    background-color: white;
+    padding: 15px;
+}
+
+.bunny-one,
+.bunny-two,
+.bunny-third,
+.bunny-fourth {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 114px;
+}
+
+.img-1 {
+    padding: 5px;
+}
+
+.the-tales {
+    background-color: #037f99;
+    text-align: center;
+    color: white;
+    font-size: 11px;
+    padding: 0 7px 38px 8px;
+    line-height: 197%;
+    height: 250px;
+}
+
+.the-tales p {
+    font-family: "Baloo Paaji";
+    padding: 15px 0 30px 0;
+    color: #ff7673;
+    font-size: 20px;
+}
+
+.bunny-one {
+    background-image: url(../img/img-1.jpg);
+}
+
+.bunny-two {
+    background-image: url(../img/img-2.jpg);
+}
+
+.bunny-third {
+    background-image: url(../img/img-3.jpg);
+}
+
+.bunny-fourth {
+    background-image: url(../img/img-4.jpg);
+}
