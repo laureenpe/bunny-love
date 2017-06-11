@@ -1,30 +1,45 @@
-/*NAV-BAR*/
-nav{
-    display: flex;
+/*Nav-bar*/
+
+.container {
+    width: 80%;
+    margin: 0 auto;
 }
-nav a{
-    color: black;
+
+.menu {
+    background-color: #037f99;
+}
+
+.bunnys,
+.love {
+    font-family: "Baloo Paaji";
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px 3px;
+}
+
+.bunnys {
+    color: white;
+}
+
+.love {
+    color: #ff7673;
+}
+
+.hide-menu {
+    display: none;
+}
+
+.links {
+    text-align: right;
+}
+
+.links li {
+    display: inline-block;
+    margin: 25px 10px;
+}
+
+.links a {
     text-decoration: none;
-    justify-content: flex-end;
-    padding: 20px;
-
+    color: white;
+    font-size: 12px;
 }
-nav li{
-     list-style-type: none;
-     padding: 20px;
-}
-nav ul{
-    justify-content: space-around;
-    display: flex;
-    width: 100%
-    
-}
-.logo{
-    margin-right: auto;
-        margin-top: 10px;
-}
-.link{
-    margin-left: 20px;
-}
-
-/*color #037D9C*/
